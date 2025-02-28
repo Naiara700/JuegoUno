@@ -1,0 +1,17 @@
+package Unlu.Poo.Uno.Modelo;
+
+public enum EventosUno {
+    JUEGO_INICIADO,
+    PUNTOS_CAMBIADOS,
+    FIN_JUEGO,
+    JUGADORES_MAXIMOS,
+    CARTA_ROBADA,
+    TURNO_CAMBIADO,
+    MISMO_NOMBRE,
+    MAS4,
+    MAS2,
+    CAMBIACOLOR,
+    BLOQUEO,
+    CAMBIARONDA,
+    UNO, FALTAN_JUGADORES,
+}

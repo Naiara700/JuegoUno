@@ -1,0 +1,5 @@
+package Unlu.Poo.Uno.Vista;
+
+public enum EstadoVista {
+    MENU,AGREGAR_JUGADOR,TIRAR_CARTA,MENU_JUGADOR,CAMBIAR_COLOR, MENU_JUGADOR_PASO
+}
