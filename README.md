@@ -1,5 +1,6 @@
-Final POO 2025
-Naiara Collazo
+#Final POO 2025
+
+Naiara Collazo  -
 leg: 195171
 
 UML uno 
